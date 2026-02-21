@@ -1,0 +1,16 @@
+venv
+output
+tests
+.vscode
+__pycache__
+aaa.py
+*.png
+bbb.py
+interface.py
+main_window.py
+ocr.py
+*.prof
+sc.py
+screenshot.py
+tktest.py
+tray.py
